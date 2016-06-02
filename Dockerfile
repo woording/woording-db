@@ -1,2 +1,1 @@
-FROM mysql:5.7.12
-
+FROM postgres:9.5.3
